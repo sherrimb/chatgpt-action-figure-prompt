@@ -17,14 +17,20 @@ This prompt **works best with ChatGPT Plus** (paid version) because it uses imag
 The free version of ChatGPT may not support all functionalities properly.
 
 ---
+<pre>
 ## Project Structure
 
 Here’s how the project is organized:
+
+```
 chatgpt-action-figure-prompt/
-'''├── 📄 README.md - Main documentation you are reading now
+├── 📄 README.md - Main documentation you are reading now
 ├── ✨ prompt.txt - The full customizable action figure prompt
 ├── 🖼️ image/
-│   └── example-action-figure.png - Example of the action figure output'''
+│   └── example-action-figure.png - Example of the action figure output
+```
+</pre>
+
 
 ---
 ## How to Use
